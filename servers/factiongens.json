@@ -1,0 +1,7 @@
+{
+  "name": "Faction Gens",
+  "hosts": ["factiongens.minefort.com"],
+  "versions": ["1.19.x"],
+  "primaryColour": "#FF0000",
+  "type": "Paper"
+}
